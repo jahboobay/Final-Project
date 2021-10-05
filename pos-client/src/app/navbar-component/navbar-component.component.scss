@@ -1,0 +1,39 @@
+.btn-group button {
+    border: 2px solid black;
+    color: white; /* White text */
+    margin-top: 20px;
+    padding: 20px 48px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    width:15%; /* Set a width if needed */
+    display: block; /* Make the buttons appear below each other */
+    border-radius: 16px;
+}
+  
+/* Add a background color on hover */
+.btn-group button:hover {
+    background-color: #3e8e41;
+}
+
+.brunch {
+    background-color: blue;
+}
+
+.apps {
+    background-color: orange;
+}
+
+.entrees {
+    background-color: green;
+}
+
+.drinks {
+    background-color: pink;
+}
+
+.dessert {
+    background-color: burlywood;
+}
+
+.kids {
+    background-color: rgb(136, 102, 179);
+}
